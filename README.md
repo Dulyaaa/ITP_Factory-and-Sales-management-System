@@ -23,10 +23,10 @@ This is a simple and efficient system. Mainly in this project we have discussed 
 
 ## Common UI
 <img width="700" alt="1PNG" align="center" src="https://user-images.githubusercontent.com/57215584/96398641-ef9c9280-11e9-11eb-95ce-625e010bb691.png">
-*figure: Main Page*
+`figure: Main Page `
 
-<img width="700" alt="1PNG" align="center" src="https://user-images.githubusercontent.com/57215584/96398662-fdeaae80-11e9-11eb-8245-3ec86886eda6.png">
-*figure: Login Page*
+<img width="700" alt="2PNG" align="center" src="https://user-images.githubusercontent.com/57215584/96398662-fdeaae80-11e9-11eb-8245-3ec86886eda6.png">
+`figure: Login Page`
 
 
 
