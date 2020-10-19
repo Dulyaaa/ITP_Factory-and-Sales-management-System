@@ -8,8 +8,8 @@ This is a simple and efficient system. Mainly in this project we have discussed 
 * ![ReactJs](https://img.shields.io/badge/FrontEnd-ReactJS-yellow)
 * ![SpringBoot](https://img.shields.io/badge/BackEnd-SpringBoot-green)
 * ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
-* ![BootStrap](https://img.shields.io/badge/Language-BootStrap-purple)
-* ![Material-UI](https://img.shields.io/badge/Language-MaterialUI-blue)
+* ![BootStrap](https://img.shields.io/badge/Style-BootStrap-purple)
+* ![Material-UI](https://img.shields.io/badge/Style-MaterialUI-blue)
 
 ## Language Used
 * ![JavaScript](https://img.shields.io/badge/Language-JavaScript-orange)
