@@ -22,9 +22,11 @@ This is a simple and efficient system. Mainly in this project we have discussed 
 * Increase the trustworthy between customer and company saler.
 
 ## Common UI
-![Screenshot (483)](https://user-images.githubusercontent.com/57215584/96398641-ef9c9280-11e9-11eb-95ce-625e010bb691.png)
-![Screenshot (484)](https://user-images.githubusercontent.com/57215584/96398662-fdeaae80-11e9-11eb-8245-3ec86886eda6.png)
+<img width="700" alt="1PNG" align="center" src="https://user-images.githubusercontent.com/57215584/96398641-ef9c9280-11e9-11eb-95ce-625e010bb691.png">
+*figure: Main Page*
 
+<img width="700" alt="1PNG" align="center" src="https://user-images.githubusercontent.com/57215584/96398662-fdeaae80-11e9-11eb-8245-3ec86886eda6.png">
+*figure: Login Page*
 
 
 
