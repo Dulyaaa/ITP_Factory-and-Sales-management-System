@@ -1,14 +1,14 @@
 # 🏭 Factory and Sales Management System
 
-# Technologies Used
+## About 
+This is a simple and efficient system. Mainly in this project we have discussed how a company can maximize their daily works by implementing a smart employee management system, customer management system, supplier management system, raw materials management system, final product inventory, payroll management, utilities management system and transportation and scheduling management system in one Web- based application. Beyond that we have included functions like generating reports for each function for decision making purposes.
+
+## Technologies Used
 * ![JavaScript](https://img.shields.io/badge/Language-JavaScript-orange)
 * ![HTML](https://img.shields.io/badge/Language-HTML-green)
 * ![CSS](https://img.shields.io/badge/Language-CSS-blue)
 * ![BootStrap](https://img.shields.io/badge/Language-BootStrap-purple)
 * ![Material-UI](https://img.shields.io/badge/Language-MaterialUI-blue)
-
-## About 
-This is a simple and efficient system. Mainly in this project we have discussed how a company can maximize their daily works by implementing a smart employee management system, customer management system, supplier management system, raw materials management system, final product inventory, payroll management, utilities management system and transportation and scheduling management system in one Web- based application. Beyond that we have included functions like generating reports for each function for decision making purposes.
 
 ## Goals
 * Remove the old-fashioned pen and paper method when making reports and recording details.
