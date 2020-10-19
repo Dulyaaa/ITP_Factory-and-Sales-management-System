@@ -1,3 +1,28 @@
+# 🏭 Factory and Sales Management System
+
+# Technologies Used
+* ![JavaScript](https://img.shields.io/badge/Language-JavaScript-orange)
+* ![HTML](https://img.shields.io/badge/Language-HTML-green)
+* ![CSS](https://img.shields.io/badge/Language-CSS-blue)
+* ![BootStrap](https://img.shields.io/badge/Language-BootStrap-purple)
+* ![Material-UI](https://img.shields.io/badge/Language-MaterialUI-blue)
+
+## About 
+This is a simple and efficient system. Mainly in this project we have discussed how a company can maximize their daily works by implementing a smart employee management system, customer management system, supplier management system, raw materials management system, final product inventory, payroll management, utilities management system and transportation and scheduling management system in one Web- based application. Beyond that we have included functions like generating reports for each function for decision making purposes.
+
+## Goals
+* Remove the old-fashioned pen and paper method when making reports and recording details.
+* System able to deliver an order on-time.
+* Increase the trustworthy between customer and company saler.
+
+## Common UI
+![Screenshot (483)](https://user-images.githubusercontent.com/57215584/96398641-ef9c9280-11e9-11eb-95ce-625e010bb691.png)
+![Screenshot (484)](https://user-images.githubusercontent.com/57215584/96398662-fdeaae80-11e9-11eb-8245-3ec86886eda6.png)
+
+
+
+
+### Some of helpful commands are below
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
