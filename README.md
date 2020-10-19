@@ -1,4 +1,5 @@
 # 🏭 Factory and Sales Management System
+Group project of 2nd Year 2nd Semester Information Technology(ITP) module.
 
 ## About 
 This is a simple and efficient system. Mainly in this project we have discussed how a company can maximize their daily works by implementing a smart employee management system, customer management system, supplier management system, raw materials management system, final product inventory, payroll management, utilities management system and transportation and scheduling management system in one Web- based application. Beyond that we have included functions like generating reports for each function for decision making purposes.
