@@ -21,7 +21,7 @@ This is a simple and efficient system. Mainly in this project we have discussed 
 * System able to deliver an order on-time.
 * Increase the trustworthy between customer and company saler.
 
-## Common UI
+## Common User Interfaces 
 <img width="700" alt="1PNG" align="center" src="https://user-images.githubusercontent.com/57215584/96398641-ef9c9280-11e9-11eb-95ce-625e010bb691.png">
 
 <img width="700" alt="2PNG" align="center" src="https://user-images.githubusercontent.com/57215584/96398662-fdeaae80-11e9-11eb-8245-3ec86886eda6.png">
